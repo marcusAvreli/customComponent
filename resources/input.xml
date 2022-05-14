@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE databaseQueryTemplate PUBLIC "databaseQueryTemplate.dtd" "databaseQueryTemplate.dtd">
+<databaseQueryTemplate>
+<entityName name="ReportStoredProcedure">
+<action name="Select">
+<queryTemplate  query="select * from &quot;ADMIN&quot;.&quot;tbl_Report_Stored_Procs&quot;"/>
+</action>
+<action name="SelectById">
+<queryTemplate  query="select * from &quot;ADMIN&quot;.&quot;tbl_Report_Stored_Procs&quot; where id={0}"/>
+</action>
+<action name="SelectByName">
+<queryTemplate  query="select * from &quot;ADMIN&quot;.&quot;tbl_Report_Stored_Procs&quot; where name=''{0}''"/>
+</action>
+<action name="Insert">
+<queryTemplate  query="insert into  &quot;ADMIN&quot;.&quot;tbl_Report_Stored_Procs&quot; (name,description) values (''{0}'',''{1}'')"/>
+</action>
+<action name="Delete">
+<queryTemplate  query="delete from  &quot;ADMIN&quot;.&quot;tbl_Report_Stored_Procs&quot;  where id={0}"/>
+</action>
+<action name="Update">
+<queryTemplate  query="update   &quot;ADMIN&quot;.&quot;tbl_Report_Stored_Procs&quot;  set name=''{0}'' where id={1}"/>
+</action>
+</entityName>
+<entityName name="Report">
+<action name="Update">
+<queryTemplate  query="update   &quot;ADMIN&quot;.&quot;TBL_REPORT&quot; set name=''{0}'' where id={1}"/>
+</action>
+<action name="Insert">
+<queryTemplate  query="insert into   &quot;ADMIN&quot;.&quot;TBL_REPORT&quot; (name,description) values (''{0}'',''{1}'')"/>
+</action>
+<action name="Select">
+<queryTemplate  query="select * from &quot;ADMIN&quot;.&quot;TBL_REPORT&quot;"/>
+</action>
+<action name="SelectByName">
+<queryTemplate  query="select * from &quot;ADMIN&quot;.&quot;TBL_REPORT&quot; where name=''{0}''"/>
+</action>
+<action name="SelectById">
+<queryTemplate  query="select * from &quot;ADMIN&quot;.&quot;TBL_REPORT&quot; where id={0}"/>
+</action>
+<action name="Delete">
+<queryTemplate  query="delete  from &quot;ADMIN&quot;.&quot;TBL_REPORT&quot; where id={0}"/>
+</action>
+</entityName>
+</databaseQueryTemplate>

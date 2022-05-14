@@ -1,0 +1,133 @@
+2022-01-10 09:03:48.187 INFO [main] [customComponent.App.main(App.java:34)] - APP_STARTED
+2022-01-10 09:03:48.225 INFO [main] [customComponent.gui.components.itemslist.AffiliationsListPanel.<init>(AffiliationsListPanel.java:37)] - checkPost
+2022-01-10 09:03:48.225 INFO [main] [customComponent.gui.components.globalslavepanel.AffiliationGlobalSlavePanel.initComponents(AffiliationGlobalSlavePanel.java:55)] - AffiliationGlobalSlavePanel start
+2022-01-10 09:03:48.226 INFO [main] [customComponent.gui.components.globalslavepanel.AffiliationGlobalSlavePanel.initComponents(AffiliationGlobalSlavePanel.java:66)] - checkPost_1
+2022-01-10 09:03:48.226 INFO [main] [customComponent.gui.components.globalslavepanel.AffiliationGlobalSlavePanel.initComponents(AffiliationGlobalSlavePanel.java:69)] - checkPost_2
+2022-01-10 09:03:48.226 INFO [main] [customComponent.gui.components.globalslavepanel.AffiliationGlobalSlavePanel.initComponents(AffiliationGlobalSlavePanel.java:94)] - checkPost_3
+2022-01-10 09:03:48.237 INFO [main] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.initComponents(ReportGlobalSlavePanel.java:49)] - AffiliationGlobalSlavePanel start
+2022-01-10 09:03:48.238 INFO [main] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.initComponents(ReportGlobalSlavePanel.java:60)] - checkPost_1
+2022-01-10 09:03:48.239 INFO [main] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.initComponents(ReportGlobalSlavePanel.java:63)] - checkPost_2
+2022-01-10 09:03:48.240 INFO [main] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.initComponents(ReportGlobalSlavePanel.java:88)] - checkPost_3
+2022-01-10 09:03:48.243 INFO [main] [customComponent.gui.MainFrame.<init>(MainFrame.java:51)] - CheckPost_1
+2022-01-10 09:03:48.244 INFO [main] [customComponent.project.CurrentProject.addKnowledgeBaseStateObserver(CurrentProject.java:294)] - addKnowledgeBaseStateObserver:
+2022-01-10 09:03:48.244 INFO [main] [customComponent.project.CurrentProject.isKnowledbaseLoaded(CurrentProject.java:267)] - knowledge base is null
+2022-01-10 09:03:48.245 INFO [main] [customComponent.project.CurrentProject.addKnowledgeBaseStateObserver(CurrentProject.java:294)] - addKnowledgeBaseStateObserver:
+2022-01-10 09:03:48.245 INFO [main] [customComponent.project.CurrentProject.isKnowledbaseLoaded(CurrentProject.java:267)] - knowledge base is null
+2022-01-10 09:03:48.250 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.init(KnowledgeBaseStateObserverMenuItem.java:68)] - Init called
+2022-01-10 09:03:48.250 INFO [main] [customComponent.project.CurrentProject.addKnowledgeBaseStateObserver(CurrentProject.java:294)] - addKnowledgeBaseStateObserver:
+2022-01-10 09:03:48.250 INFO [main] [customComponent.project.CurrentProject.isKnowledbaseLoaded(CurrentProject.java:267)] - knowledge base is null
+2022-01-10 09:03:48.251 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.knowledgeBaseStateChanged(KnowledgeBaseStateObserverMenuItem.java:55)] - knowledgeBaseStateChanged:false
+2022-01-10 09:03:48.251 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.init(KnowledgeBaseStateObserverMenuItem.java:68)] - Init called
+2022-01-10 09:03:48.251 INFO [main] [customComponent.project.CurrentProject.addKnowledgeBaseStateObserver(CurrentProject.java:294)] - addKnowledgeBaseStateObserver:
+2022-01-10 09:03:48.252 INFO [main] [customComponent.project.CurrentProject.isKnowledbaseLoaded(CurrentProject.java:267)] - knowledge base is null
+2022-01-10 09:03:48.252 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.knowledgeBaseStateChanged(KnowledgeBaseStateObserverMenuItem.java:55)] - knowledgeBaseStateChanged:false
+2022-01-10 09:03:48.252 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.init(KnowledgeBaseStateObserverMenuItem.java:68)] - Init called
+2022-01-10 09:03:48.252 INFO [main] [customComponent.project.CurrentProject.addKnowledgeBaseStateObserver(CurrentProject.java:294)] - addKnowledgeBaseStateObserver:
+2022-01-10 09:03:48.252 INFO [main] [customComponent.project.CurrentProject.isKnowledbaseLoaded(CurrentProject.java:267)] - knowledge base is null
+2022-01-10 09:03:48.252 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.knowledgeBaseStateChanged(KnowledgeBaseStateObserverMenuItem.java:55)] - knowledgeBaseStateChanged:false
+2022-01-10 09:03:48.288 INFO [main] [customComponent.gui.MainFrame.<init>(MainFrame.java:53)] - CheckPost_2
+2022-01-10 09:03:48.385 INFO [main] [customComponent.project.CurrentProject.isKnowledbaseLoaded(CurrentProject.java:267)] - knowledge base is null
+2022-01-10 09:03:48.385 INFO [main] [customComponent.project.CurrentProject.newProject(CurrentProject.java:115)] - new Project. connecting to database
+2022-01-10 09:03:48.609 INFO [main] [customComponent.XmlParser.createDocument(XmlParser.java:68)] - SourceFile:./resources/input.xml
+2022-01-10 09:03:48.698 INFO [main] [customComponent.XmlParser.createDocument(XmlParser.java:78)] - document
+2022-01-10 09:03:48.766 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.767 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:select * from "ADMIN"."tbl_Report_Stored_Procs"
+2022-01-10 09:03:48.767 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.768 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.768 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:select * from "ADMIN"."tbl_Report_Stored_Procs" where name=''{0}''
+2022-01-10 09:03:48.769 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.770 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.770 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:select * from "ADMIN"."tbl_Report_Stored_Procs" where id={0}
+2022-01-10 09:03:48.770 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.771 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.771 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:insert into  "ADMIN"."tbl_Report_Stored_Procs" (name,description) values (''{0}'',''{1}'')
+2022-01-10 09:03:48.771 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.772 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.773 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:delete from  "ADMIN"."tbl_Report_Stored_Procs"  where id={0}
+2022-01-10 09:03:48.773 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.774 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.774 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:update   "ADMIN"."tbl_Report_Stored_Procs"  set name=''{0}'' where id={1}
+2022-01-10 09:03:48.774 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.776 INFO [main] [customComponent.XmlParser.createDocument(XmlParser.java:68)] - SourceFile:./resources/input.xml
+2022-01-10 09:03:48.779 INFO [main] [customComponent.XmlParser.createDocument(XmlParser.java:78)] - document
+2022-01-10 09:03:48.780 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.781 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:update   "ADMIN"."TBL_REPORT" set name=''{0}'' where id={1}
+2022-01-10 09:03:48.781 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.781 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.782 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:select * from "ADMIN"."TBL_REPORT" where id={0}
+2022-01-10 09:03:48.782 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.782 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.783 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:insert into   "ADMIN"."TBL_REPORT" (name,description) values (''{0}'',''{1}'')
+2022-01-10 09:03:48.783 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.784 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.784 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:select * from "ADMIN"."TBL_REPORT"
+2022-01-10 09:03:48.784 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.785 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.785 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:select * from "ADMIN"."TBL_REPORT" where name=''{0}''
+2022-01-10 09:03:48.785 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.785 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:113)] - START:1
+2022-01-10 09:03:48.786 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:118)] - ResultQuery:delete  from "ADMIN"."TBL_REPORT" where id={0}
+2022-01-10 09:03:48.786 INFO [main] [customComponent.XmlParser.getQuery(XmlParser.java:120)] - got something
+2022-01-10 09:03:48.786 INFO [main] [customComponent.project.CurrentProject.isKnowledbaseLoaded(CurrentProject.java:265)] - knowledge base is not null
+2022-01-10 09:03:48.786 INFO [main] [customComponent.project.CurrentProject.notifyKnowledgeBaseObsever(CurrentProject.java:318)] - notifyKnowledgeBaseObsever:
+2022-01-10 09:03:48.786 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.knowledgeBaseStateChanged(KnowledgeBaseStateObserverMenuItem.java:55)] - knowledgeBaseStateChanged:true
+2022-01-10 09:03:48.786 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.knowledgeBaseStateChanged(KnowledgeBaseStateObserverMenuItem.java:55)] - knowledgeBaseStateChanged:true
+2022-01-10 09:03:48.786 INFO [main] [customComponent.gui.components.KnowledgeBaseStateObserverMenuItem.knowledgeBaseStateChanged(KnowledgeBaseStateObserverMenuItem.java:55)] - knowledgeBaseStateChanged:true
+2022-01-10 09:03:48.786 INFO [main] [customComponent.project.observer.KnowledgeBaseObserver.fireKnowledgeBaseRefresh(KnowledgeBaseObserver.java:53)] - fireKnowledgeBaseRefresh
+2022-01-10 09:03:48.787 INFO [main] [customComponent.project.observer.KnowledgeBaseObserver.fireAffiliationRefresh(KnowledgeBaseObserver.java:156)] - fire affiliation refresh
+2022-01-10 09:03:48.787 INFO [main] [customComponent.gui.components.itemslist.AffiliationsListPanel.entityRefresh(AffiliationsListPanel.java:78)] - Entity Refresh
+2022-01-10 09:03:48.787 INFO [main] [customComponent.model.knowledgebase.dao.AffiliationDAO.getAffiliations(AffiliationDAO.java:473)] - getAffiliations
+2022-01-10 09:03:48.789 INFO [main] [customComponent.model.knowledgebase.dao.AffiliationDAO.getAffiliations(AffiliationDAO.java:480)] - selectAffiliations:select * from "ADMIN"."tbl_Report_Stored_Procs"
+2022-01-10 09:03:48.805 INFO [main] [customComponent.gui.components.itemslist.AffiliationsListPanel.entityRefresh(AffiliationsListPanel.java:78)] - Entity Refresh
+2022-01-10 09:03:48.805 INFO [main] [customComponent.model.knowledgebase.dao.AffiliationDAO.getAffiliations(AffiliationDAO.java:473)] - getAffiliations
+2022-01-10 09:03:48.805 INFO [main] [customComponent.model.knowledgebase.dao.AffiliationDAO.getAffiliations(AffiliationDAO.java:480)] - selectAffiliations:select * from "ADMIN"."tbl_Report_Stored_Procs"
+2022-01-10 09:03:48.806 INFO [main] [customComponent.project.observer.KnowledgeBaseObserver.fireReportRefresh(KnowledgeBaseObserver.java:166)] - fire report refresh
+2022-01-10 09:03:48.807 INFO [main] [customComponent.gui.components.itemslist.ReportListPanel.entityRefresh(ReportListPanel.java:51)] - Entity Report Refresh
+2022-01-10 09:03:48.807 INFO [main] [customComponent.model.knowledgebase.dao.ReportDAO.getReports(ReportDAO.java:304)] - get_reports
+2022-01-10 09:03:48.807 INFO [main] [customComponent.model.knowledgebase.dao.ReportDAO.getReports(ReportDAO.java:311)] - selectAffiliations:select * from "ADMIN"."TBL_REPORT"
+2022-01-10 09:03:48.826 INFO [main] [customComponent.App.main(App.java:52)] - APP_FINISHED
+2022-01-10 09:03:53.995 INFO [AWT-EventQueue-0] [customComponent.gui.MainFrame$6.actionPerformed(MainFrame.java:226)] - Here
+2022-01-10 09:03:53.999 INFO [AWT-EventQueue-0] [customComponent.gui.MainFrame.reportManagerMenuItemActionPerformed(MainFrame.java:266)] - globalReplaceReportMenuItemActionPerformed
+2022-01-10 09:03:55.405 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:03:55.406 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:03:56.852 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:03:56.854 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:03:58.504 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:03:58.505 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:04:00.626 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:04:00.627 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:04:02.112 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:04:02.113 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:04:03.448 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:04:03.449 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:04:04.564 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:04:04.565 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:04:05.929 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:04:05.930 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:04:07.929 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:04:07.931 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:04:09.581 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 09:04:09.582 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 09:04:15.936 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.updateAffiliationButtonActionPerformed(ReportGlobalSlavePanel.java:156)] - hello updateAffiliationButtonActionPerformed
+2022-01-10 09:04:15.943 INFO [AWT-EventQueue-0] [customComponent.gui.commands.edit.update.UpdateReportEdit.execute(UpdateReportEdit.java:64)] - update report
+2022-01-10 09:04:15.944 INFO [AWT-EventQueue-0] [customComponent.model.knowledgebase.dao.ReportDAO.checkReport(ReportDAO.java:75)] - checkAffiliationByFullAffiliation:select * from "ADMIN"."TBL_REPORT" where name=''{0}''
+2022-01-10 09:04:15.946 INFO [AWT-EventQueue-0] [customComponent.model.knowledgebase.dao.ReportDAO.checkReport(ReportDAO.java:81)] - queryString:select * from "ADMIN"."TBL_REPORT" where name='fffds67'
+2022-01-10 09:04:15.964 INFO [AWT-EventQueue-0] [customComponent.model.knowledgebase.dao.ReportDAO.getReport(ReportDAO.java:265)] - getAffiliation:7
+2022-01-10 09:04:15.966 INFO [AWT-EventQueue-0] [customComponent.model.knowledgebase.dao.ReportDAO.getReport(ReportDAO.java:276)] - queryString:select * from "ADMIN"."TBL_REPORT" where id=7
+2022-01-10 09:04:15.970 INFO [AWT-EventQueue-0] [customComponent.model.knowledgebase.dao.ReportDAO.setReport(ReportDAO.java:109)] - queryString:update   "ADMIN"."TBL_REPORT" set name='fffds67' where id=7
+2022-01-10 09:04:15.997 INFO [AWT-EventQueue-0] [customComponent.model.knowledgebase.dao.ReportDAO.getReport(ReportDAO.java:265)] - getAffiliation:7
+2022-01-10 09:04:15.998 INFO [AWT-EventQueue-0] [customComponent.model.knowledgebase.dao.ReportDAO.getReport(ReportDAO.java:276)] - queryString:select * from "ADMIN"."TBL_REPORT" where id=7
+2022-01-10 10:51:46.231 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 10:51:46.233 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 10:53:52.641 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 10:53:52.642 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 10:53:54.079 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 10:53:54.079 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 10:54:10.832 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 10:54:10.833 INFO [AWT-EventQueue-0] [customComponent.gui.components.globalslavepanel.ReportGlobalSlavePanel.refresh(ReportGlobalSlavePanel.java:25)] - refresh
+2022-01-10 10:54:22.046 INFO [AWT-EventQueue-0] [customComponent.gui.MainFrame$5.actionPerformed(MainFrame.java:219)] - Here
+2022-01-10 10:54:22.046 INFO [AWT-EventQueue-0] [customComponent.gui.MainFrame.affiliationsManagerMenuItemActionPerformed(MainFrame.java:270)] - globalReplaceAffiliationMenuItemActionPerformed
+2022-01-10 10:54:23.470 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 10:54:25.671 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 10:54:26.891 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
+2022-01-10 10:54:28.718 INFO [AWT-EventQueue-0] [customComponent.gui.components.manager.GenericItemManagerPanel.selectionChangeHappened(GenericItemManagerPanel.java:54)] - Selection happend
